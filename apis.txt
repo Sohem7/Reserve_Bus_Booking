@@ -1,0 +1,8 @@
+http://localhost:3000/api/trips/addTrip
+http://localhost:3000/api/bookings/saveBooking
+http://localhost:3000/api/pastTrips
+http://localhost:3000/api/trips/getTripsByDate
+http://localhost:3000/api/trips/getTrips
+
+documentation link
+https://documenter.getpostman.com/view/28947217/2s9YR58FhR
